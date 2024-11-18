@@ -90,13 +90,9 @@ GROQ_API_KEY=your_groq_api_key
 
 ---
 
-## Optional Features
+## Video Walkthrough
 
-- **Google Sheets Integration**: Dynamically fetch and update data.
-- **Error Handling**: Comprehensive error handling for web searches and API calls.
-- **Dynamic Query Generator**: Customizable templates for creating search queries.
 
----
 
-## Loom Video Walkthrough
+https://github.com/user-attachments/assets/f599900e-0a07-44d6-8722-601b7f922e93
 
